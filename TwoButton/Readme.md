@@ -1,5 +1,5 @@
 
-= Two Controller Input on the Nabu
+## Two Button Controller Input on the Nabu
 
 This is a simple CP/M program demonstrating two button input on the Nabu with a Sega Master System controller.
 
